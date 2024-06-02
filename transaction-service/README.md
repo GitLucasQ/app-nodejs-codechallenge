@@ -26,6 +26,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Important
+This project use Postgres SQL, you need create a database named "yape" first or configure
+your favorite database.
+
 ## Installation
 
 ```bash
